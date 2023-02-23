@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Jalal-Zein
-- 👀 I’m interested in Mobile Development on Android and Game Development with Unreal Engine
-- 🌱 I’m currently learning Mobile Development with Kotlin!
-- 💞️ I’m looking to collaborate on non-specific projects?
-- 📫 How to reach me: send an email to jalal13elzein@gmail.com
+Skills
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
 
 <!---
 Jalal-Zein/Jalal-Zein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
