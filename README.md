@@ -9,7 +9,7 @@ I'm a Junior Undergraduate Computer Science student at the Lebanese American Uni
 </p>
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Linkedin_circle.svg" width="15" height="15" alt="LinkedIn">
-<a href="linkedin.com/in/jalal-elzein">linkedin.com/in/jalal-elzein</a>
+<a href="https://www.linkedin.com/in/jalal-elzein/">linkedin.com/in/jalal-elzein</a>
 </p>    
 
 
