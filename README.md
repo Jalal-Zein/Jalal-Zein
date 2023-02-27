@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jalal<h1 align="left">Hello, I'm Ghantoos <img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png height = 120 width = 120 align="bottom"></h1></h1>
+<h1 align="center">Hi, I'm Jalal<img src=https://uploads.scratch.mit.edu/get_image/gallery/1751058_200x130.png height = 120 width = 120 align="bottom"></h1>
 <h3 align="center">An Undergraduate CS Student from Lebanon</h3>
 
 <br>
