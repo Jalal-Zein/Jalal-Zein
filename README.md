@@ -17,7 +17,7 @@
 - 🔭 I’m working as a XX XXXXXXXX at XXXXXXX<br>
 - 📚 I'm currently learning Recommender Systems<br>
 - ⚡ In my free time I play video games!<br>
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sSxrgTMQzcHyAfHs-4q18TdqrEkuwAwW/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sSxrgTMQzcHyAfHs-4q18TdqrEkuwAwW/view?usp=sharing)<br>
 </p>
 
 ###
