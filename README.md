@@ -14,8 +14,8 @@
 
 <p align="left">I'm Jalal, an undergrad CS student and aspiring ML Engineer!
 <br>
-- 🔭 I’m working as a Machine Learning Intern at Anghami<br>
-- 📚 I'm currently learning about LLMs<br>
+- 🔭 I’m working as a Machine Learning Engineer at Anghami<br>
+- 📚 I'm currently learning about Graph Algorithms<br>
 - ⚡ In my free time I play video games!<br>
 - 📄 Know about my experiences <a href='https://drive.google.com/file/d/1sSxrgTMQzcHyAfHs-4q18TdqrEkuwAwW/view?usp=sharing'>Resume</a><br>
 </p>
